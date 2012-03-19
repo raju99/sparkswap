@@ -1,0 +1,552 @@
+[19-Feb-2012 13:59:40] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 35
+[19-Feb-2012 13:59:40] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[19-Feb-2012 13:59:40] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 385
+[19-Feb-2012 14:08:12] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[19-Feb-2012 14:09:59] PHP Fatal error:  Class 'itemClass' not found in /home/elecacom/public_html/spark/front/searchListing.php on line 80
+[19-Feb-2012 14:11:59] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[19-Feb-2012 14:12:46] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:12:46] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:12:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:14:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[19-Feb-2012 14:14:24] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[19-Feb-2012 14:15:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:15:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:15:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[19-Feb-2012 14:27:15] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 14:27:59] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 14:29:19] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 14:30:42] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 14:32:44] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 14:33:47] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/upcoming.php on line 6
+[19-Feb-2012 16:57:27] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 173
+[20-Feb-2012 13:04:33] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 13:04:35] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 13:04:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 13:29:32] PHP Parse error:  syntax error, unexpected ',' in /home/elecacom/public_html/spark/include/conn.php on line 17
+[20-Feb-2012 13:43:43] CSRF state token does not match one provided.
+[20-Feb-2012 13:54:49] CSRF state token does not match one provided.
+[20-Feb-2012 13:55:02] CSRF state token does not match one provided.
+[20-Feb-2012 13:55:06] CSRF state token does not match one provided.
+[20-Feb-2012 13:57:03] CSRF state token does not match one provided.
+[20-Feb-2012 13:57:09] CSRF state token does not match one provided.
+[20-Feb-2012 13:57:12] CSRF state token does not match one provided.
+[20-Feb-2012 14:05:57] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:06:03] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:06:13] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:06:21] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:18:34] PHP Fatal error:  Call to undefined function mysql_last_id() in /home/elecacom/public_html/spark/classes/userClass.php on line 455
+[20-Feb-2012 14:19:06] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:19:20] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 62
+[20-Feb-2012 14:20:51] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:21:05] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:22:27] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:22:33] CSRF state token does not match one provided.
+[20-Feb-2012 14:22:33] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:22:36] CSRF state token does not match one provided.
+[20-Feb-2012 14:22:37] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:22:46] CSRF state token does not match one provided.
+[20-Feb-2012 14:22:46] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:22:49] CSRF state token does not match one provided.
+[20-Feb-2012 14:22:49] PHP Notice:  Undefined variable: loginUrl in /home/elecacom/public_html/spark/front/userRegistration.php on line 65
+[20-Feb-2012 14:23:58] CSRF state token does not match one provided.
+[20-Feb-2012 14:26:33] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/elecacom/public_html/spark/front/facebookLogin.php on line 70
+[20-Feb-2012 14:27:34] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/elecacom/public_html/spark/front/facebookLogin.php on line 70
+[20-Feb-2012 14:29:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/elecacom/public_html/spark/front/facebookLogin.php on line 70
+[20-Feb-2012 14:30:14] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home/elecacom/public_html/spark/front/facebookLogin.php on line 70
+[20-Feb-2012 14:37:35] PHP Fatal error:  Call to undefined function mysql_latest_id() in /home/elecacom/public_html/spark/classes/userClass.php on line 455
+[20-Feb-2012 14:38:14] CSRF state token does not match one provided.
+[20-Feb-2012 14:38:20] CSRF state token does not match one provided.
+[20-Feb-2012 14:38:42] CSRF state token does not match one provided.
+[20-Feb-2012 14:41:12] CSRF state token does not match one provided.
+[20-Feb-2012 14:41:12] PHP Fatal error:  Call to undefined function mysql_latest_id() in /home/elecacom/public_html/spark/classes/userClass.php on line 455
+[20-Feb-2012 14:43:06] CSRF state token does not match one provided.
+[20-Feb-2012 14:43:39] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 89
+[20-Feb-2012 14:48:16] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 89
+[20-Feb-2012 14:52:32] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 91
+[20-Feb-2012 15:54:58] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 91
+[20-Feb-2012 16:32:32] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 91
+[20-Feb-2012 17:26:09] CSRF state token does not match one provided.
+[20-Feb-2012 17:56:40] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:56:40] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:56:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:56:44] PHP Notice:  Undefined variable: fbconfig in /home/elecacom/public_html/spark/front/facebookLogin.php on line 39
+[20-Feb-2012 17:58:41] PHP Notice:  Undefined variable: frnd_user in /home/elecacom/public_html/spark/front/home.php on line 91
+[20-Feb-2012 17:58:52] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:58:52] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:58:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 17:59:40] CSRF state token does not match one provided.
+[20-Feb-2012 19:08:26] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 19:08:26] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 19:08:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[20-Feb-2012 19:11:03] CSRF state token does not match one provided.
+[20-Feb-2012 19:12:44] CSRF state token does not match one provided.
+[22-Feb-2012 13:42:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/elecacom/public_html/spark/include/conn.php on line 3
+[22-Feb-2012 13:42:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/elecacom/public_html/spark/include/conn.php on line 3
+[22-Feb-2012 13:42:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/elecacom/public_html/spark/include/conn.php on line 3
+[22-Feb-2012 14:18:49] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 9
+[22-Feb-2012 14:20:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 14:21:50] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 14:23:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 14:23:09] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 14:27:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/elecacom/public_html/spark/front/itemListed.php on line 9
+[22-Feb-2012 14:35:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/elecacom/public_html/spark/front/itemListed.php on line 10
+[22-Feb-2012 14:35:37] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 9
+[22-Feb-2012 14:36:18] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 9
+[22-Feb-2012 14:47:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 14:47:25] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 9
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 11
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 13
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 15
+[22-Feb-2012 14:47:56] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 9
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 16
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 18
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 129
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/viewItem.php on line 382
+[22-Feb-2012 14:47:56] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[22-Feb-2012 14:47:57] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 16:08:50] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:08:55] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:11:42] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:12:55] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:24:54] PHP Notice:  Undefined index: msg in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:24:54] PHP Notice:  Undefined index:  in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:25:14] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:25:14] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/classes/userClass.php on line 296
+[22-Feb-2012 16:30:03] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:30:03] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/classes/userClass.php on line 296
+[22-Feb-2012 16:30:03] PHP Warning:  unlink(/home/elecacom/public_html/spark/images/itemimages//4f44c4b731f89.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/elecacom/public_html/spark/classes/userClass.php on line 301
+[22-Feb-2012 16:30:20] PHP Warning:  Missing argument 2 for user::deleteItemImage(), called in /home/elecacom/public_html/spark/front/editItem.php on line 13 and defined in /home/elecacom/public_html/spark/classes/userClass.php on line 293
+[22-Feb-2012 16:30:20] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/classes/userClass.php on line 296
+[22-Feb-2012 16:30:20] PHP Warning:  unlink(/home/elecacom/public_html/spark/images/itemimages//4f44c4b731f89.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/elecacom/public_html/spark/classes/userClass.php on line 301
+[22-Feb-2012 16:31:37] PHP Notice:  Undefined index: msg in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:31:37] PHP Notice:  Undefined index:  in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:33:13] PHP Warning:  unlink() expects parameter 2 to be resource, string given in /home/elecacom/public_html/spark/classes/userClass.php on line 301
+[22-Feb-2012 16:34:26] PHP Warning:  unlink(/home/elecacom/public_html/spark/images/itemimages/21/4f44cb044b2ac.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/elecacom/public_html/spark/classes/userClass.php on line 301
+[22-Feb-2012 16:34:38] PHP Warning:  Invalid argument supplied for foreach() in /home/elecacom/public_html/spark/front/editItemUpload.php on line 17
+[22-Feb-2012 16:34:39] PHP Notice:  Undefined index: msg in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:34:39] PHP Notice:  Undefined index:  in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:46:23] PHP Notice:  Undefined index: msg in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:46:23] PHP Notice:  Undefined index:  in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:48:09] PHP Notice:  Undefined index: msg in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 16:48:09] PHP Notice:  Undefined index:  in /home/elecacom/public_html/spark/include/header.php on line 166
+[22-Feb-2012 17:03:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 17:03:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 17:05:09] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 17:15:09] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:15:09] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:15:09] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:15:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 17:16:12] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:16:12] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:16:12] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:16:14] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: pickup in /home/elecacom/public_html/spark/front/postRental.php on line 40
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: 2 in /home/elecacom/public_html/spark/classes/itemClass.php on line 90
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: 1 in /home/elecacom/public_html/spark/classes/itemClass.php on line 90
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: dropup in /home/elecacom/public_html/spark/front/postRental.php on line 41
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: 2 in /home/elecacom/public_html/spark/classes/itemClass.php on line 90
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined index: 1 in /home/elecacom/public_html/spark/classes/itemClass.php on line 90
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined variable: _post in /home/elecacom/public_html/spark/front/postRental.php on line 42
+[22-Feb-2012 17:16:36] PHP Notice:  Undefined variable: subject in /home/elecacom/public_html/spark/front/postRental.php on line 47
+[22-Feb-2012 17:16:59] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:16:59] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:16:59] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 17:17:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 18:06:31] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 18:06:31] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 18:06:31] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 18:06:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 19:03:17] PHP Notice:  Undefined index: reservation_id in /home/elecacom/public_html/spark/front/inbox.php on line 113
+[22-Feb-2012 19:03:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 19:10:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 19:10:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/front/userRentListing.php on line 26
+[22-Feb-2012 19:10:51] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:10:51] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:10:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:10:59] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:10:59] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:10:59] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:10:59] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:11:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[22-Feb-2012 19:11:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/front/userRentListing.php on line 26
+[22-Feb-2012 19:16:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/elecacom/public_html/spark/front/userRentListing.php:1) in /home/elecacom/public_html/spark/front/userRentListing.php on line 26
+[22-Feb-2012 19:19:16] PHP Notice:  Undefined variable: subject in /home/elecacom/public_html/spark/front/postRental.php on line 23
+[22-Feb-2012 19:22:22] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:22:22] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:22:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:22:48] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:22:48] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:23:08] PHP Notice:  Undefined variable: subject in /home/elecacom/public_html/spark/front/postRental.php on line 33
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 9
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 12
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 14
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 16
+[22-Feb-2012 19:26:02] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/itemClass.php on line 9
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 17
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 19
+[22-Feb-2012 19:26:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/paymentItem.php on line 40
+[22-Feb-2012 19:28:02] PHP Notice:  Undefined index: price in /home/elecacom/public_html/spark/front/paymentItem.php on line 88
+[22-Feb-2012 19:28:02] PHP Notice:  Undefined index: price in /home/elecacom/public_html/spark/front/paymentItem.php on line 93
+[22-Feb-2012 19:31:19] PHP Notice:  Undefined index: price in /home/elecacom/public_html/spark/front/paymentItem.php on line 88
+[22-Feb-2012 19:31:19] PHP Notice:  Undefined index: price in /home/elecacom/public_html/spark/front/paymentItem.php on line 93
+[22-Feb-2012 19:32:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:32:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:32:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 19:32:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/userClass.php on line 314
+[22-Feb-2012 19:37:09] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/requirements.php on line 9
+[22-Feb-2012 19:37:09] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/requirements.php on line 10
+[22-Feb-2012 19:48:47] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 19:49:57] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 19:52:36] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 19:55:24] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:02:26] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:02:26] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:03:33] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:03:33] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:07:50] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:07:50] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:17:14] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:20:25] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 20:24:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 20:24:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 20:24:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 20:25:03] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:25:03] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 20:27:13] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 21:30:33] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 21:30:33] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 21:30:33] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 21:32:25] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 21:32:25] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[22-Feb-2012 21:46:35] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 21:46:35] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[22-Feb-2012 21:52:28] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 21:52:28] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[22-Feb-2012 22:16:41] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[22-Feb-2012 22:16:41] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[22-Feb-2012 22:59:09] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 22:59:09] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[22-Feb-2012 22:59:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 00:50:09] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 00:50:09] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 02:48:05] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 02:48:05] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 04:53:55] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 04:53:57] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 09:34:23] CSRF state token does not match one provided.
+[23-Feb-2012 10:55:12] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/home.php on line 64
+[23-Feb-2012 10:55:12] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/home.php on line 64
+[23-Feb-2012 10:56:32] PHP Fatal error:  Class 'user' not found in /home/elecacom/public_html/spark/front/requirements.php on line 8
+[23-Feb-2012 11:02:50] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 11:02:50] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 12:00:43] CSRF state token does not match one provided.
+[23-Feb-2012 12:00:52] CSRF state token does not match one provided.
+[23-Feb-2012 12:01:02] CSRF state token does not match one provided.
+[23-Feb-2012 12:16:01] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/classes/userClass.php on line 62
+[23-Feb-2012 13:05:25] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/itemUserManagement.php on line 15
+[23-Feb-2012 13:24:14] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:32] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:34] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:35] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:36] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:36] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:24:38] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:25:38] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/7/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[23-Feb-2012 13:25:57] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 13:25:57] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 13:25:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 15:45:13] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/itemUserManagement.php on line 15
+[23-Feb-2012 15:59:00] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 15:59:00] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 15:59:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[23-Feb-2012 16:11:19] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 16:11:19] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 16:12:54] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 16:12:54] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 16:13:18] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 16:13:18] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[23-Feb-2012 18:16:06] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 21:30:23] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[23-Feb-2012 21:30:24] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[24-Feb-2012 02:08:07] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 171
+[24-Feb-2012 02:08:07] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 383
+[24-Feb-2012 12:54:46] PHP Warning:  unlink(/home/elecacom/public_html/spark//images/temp/11/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/elecacom/public_html/spark/front/deleteImageItem.php on line 12
+[25-Feb-2012 09:22:55] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 09:23:46] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 10:27:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 10:27:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 10:27:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 10:45:04] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 10:56:03] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 10:56:29] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 10:57:42] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 10:59:24] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 11:17:04] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 11:17:17] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:17:17] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:17:35] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:17:35] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:18:09] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:18:09] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:21:56] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 11:22:17] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 11:22:39] PHP Warning:  unlink(/home/elecacom/public_html/spark/images/42/4f487656db440.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/elecacom/public_html/spark/classes/userClass.php on line 357
+[25-Feb-2012 11:26:30] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 11:26:38] PHP Notice:  Undefined index: description in /home/elecacom/public_html/spark/front/viewItem.php on line 169
+[25-Feb-2012 11:29:51] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 11:30:34] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 11:34:08] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 11:45:44] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 11:45:44] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:03:06] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/profile.php on line 44
+[25-Feb-2012 12:03:06] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:03:06] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:03:34] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 12:07:44] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 12:09:29] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 12:12:51] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 12:13:12] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 161
+[25-Feb-2012 12:14:03] PHP Notice:  Undefined index: SORTING in /home/elecacom/public_html/spark/front/itemAjax.php on line 37
+[25-Feb-2012 12:25:23] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:25:23] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:27:52] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:27:52] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:28:15] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:28:15] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:28:51] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:28:51] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:29:50] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:29:50] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:30:00] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:30:00] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:30:28] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 12:30:28] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 135
+[25-Feb-2012 13:39:55] CSRF state token does not match one provided.
+[25-Feb-2012 17:34:13] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 11
+[25-Feb-2012 17:34:13] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 26
+[25-Feb-2012 17:51:35] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 17:51:35] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 17:53:26] PHP Notice:  Undefined index: social_status in /home/elecacom/public_html/spark/front/privacy.php on line 30
+[25-Feb-2012 17:53:26] PHP Notice:  Undefined index: facebook_status in /home/elecacom/public_html/spark/front/privacy.php on line 38
+[25-Feb-2012 17:53:26] PHP Notice:  Undefined index: search_engine_status in /home/elecacom/public_html/spark/front/privacy.php on line 47
+[25-Feb-2012 18:00:17] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 162
+[25-Feb-2012 18:00:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[25-Feb-2012 18:04:51] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 162
+[25-Feb-2012 18:11:45] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 162
+[25-Feb-2012 23:00:26] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 41
+[25-Feb-2012 23:00:27] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 44
+[25-Feb-2012 23:00:27] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 45
+[25-Feb-2012 23:00:27] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 85
+[25-Feb-2012 23:00:34] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/mySwaps.php on line 13
+[25-Feb-2012 23:00:44] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/myReservation.php on line 1
+[25-Feb-2012 23:12:16] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 11
+[25-Feb-2012 23:12:19] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 26
+[25-Feb-2012 23:12:25] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 41
+[25-Feb-2012 23:12:25] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 44
+[25-Feb-2012 23:12:25] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 45
+[25-Feb-2012 23:12:25] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 85
+[25-Feb-2012 23:12:42] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/mySwaps.php on line 13
+[25-Feb-2012 23:17:28] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:17:28] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:17:52] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:17:52] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:18:38] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 11
+[25-Feb-2012 23:18:38] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 26
+[25-Feb-2012 23:18:44] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 11
+[25-Feb-2012 23:18:44] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 26
+[25-Feb-2012 23:18:54] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 41
+[25-Feb-2012 23:18:54] PHP Notice:  Undefined variable: user_id in /home/elecacom/public_html/spark/front/inbox.php on line 44
+[25-Feb-2012 23:18:54] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 45
+[25-Feb-2012 23:18:54] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/inbox.php on line 85
+[25-Feb-2012 23:18:59] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 23:18:59] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 23:18:59] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[25-Feb-2012 23:27:31] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:27:31] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:27:51] PHP Notice:  Undefined index: 7 in /home/elecacom/public_html/spark/include/header.php on line 172
+[25-Feb-2012 23:27:51] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[25-Feb-2012 23:27:51] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[26-Feb-2012 14:03:29] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[26-Feb-2012 14:03:29] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[26-Feb-2012 14:05:06] PHP Notice:  Undefined index: 8 in /home/elecacom/public_html/spark/include/header.php on line 172
+[26-Feb-2012 14:05:06] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[26-Feb-2012 14:05:06] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[27-Feb-2012 18:33:44] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 162
+[29-Feb-2012 07:51:18] CSRF state token does not match one provided.
+[29-Feb-2012 07:51:44] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 07:51:44] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 14:03:29] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 14:03:29] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 14:03:52] PHP Warning:  unlink(/home/elecacom/public_html/spark/images/profile/4f471c2f22fc9.jpg) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/elecacom/public_html/spark/classes/userClass.php on line 117
+[29-Feb-2012 14:03:54] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 14:03:54] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 14:07:43] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 166
+[29-Feb-2012 14:07:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 16:26:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:26:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:26:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:28:46] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 16:28:46] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 16:46:10] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:46:10] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:46:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:48:04] PHP Notice:  Use of undefined constant user - assumed 'user' in /home/elecacom/public_html/spark/classes/userClass.php on line 610
+[29-Feb-2012 16:48:42] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 16:48:42] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 16:50:13] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:50:13] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:50:13] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:50:52] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:50:52] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:50:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:51:39] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:51:39] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:51:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:51:57] PHP Notice:  Use of undefined constant user - assumed 'user' in /home/elecacom/public_html/spark/classes/userClass.php on line 610
+[29-Feb-2012 16:52:49] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:52:49] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:52:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 16:54:40] PHP Notice:  Undefined variable: google_api_key in /home/elecacom/public_html/spark/front/searchListing.php on line 166
+[29-Feb-2012 16:56:18] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 17
+[29-Feb-2012 16:56:18] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 33
+[29-Feb-2012 18:18:46] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 17
+[29-Feb-2012 18:18:46] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 33
+[29-Feb-2012 18:31:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 18:31:24] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 18:31:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 19:36:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 19:36:03] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[29-Feb-2012 20:38:51] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/elecacom/public_html/spark/classes/userClass.php on line 716
+[29-Feb-2012 20:39:08] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/elecacom/public_html/spark/classes/userClass.php on line 716
+[29-Feb-2012 20:41:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 20:52:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/elecacom/public_html/spark/front/home.php on line 162
+[29-Feb-2012 20:52:49] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/home.php on line 162
+[29-Feb-2012 20:52:49] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/home.php on line 167
+[29-Feb-2012 20:53:38] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/home.php on line 162
+[29-Feb-2012 20:53:38] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/home.php on line 167
+[29-Feb-2012 21:01:37] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/itemForRent.php on line 65
+[29-Feb-2012 21:02:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 21:03:03] PHP Notice:  Undefined index: SORTING in /home/elecacom/public_html/spark/front/itemAjax.php on line 37
+[29-Feb-2012 21:15:19] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 21:15:19] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[29-Feb-2012 21:15:48] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/itemForRent.php on line 65
+[29-Feb-2012 21:16:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 21:17:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 21:21:43] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 72
+[29-Feb-2012 21:21:43] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 75
+[29-Feb-2012 21:25:02] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:25:02] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:28:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/elecacom/public_html/spark/front/viewItem.php:1) in /home/elecacom/public_html/spark/include/header.php on line 3
+[29-Feb-2012 21:33:53] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:33:53] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:41:14] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 21:41:14] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 21:41:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 21:42:13] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:42:13] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:43:54] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 21:43:54] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 22:10:37] PHP Notice:  Undefined variable: checkRentStatusOfUSer in /home/elecacom/public_html/spark/front/actionOnMessages.php on line 52
+[29-Feb-2012 22:10:37] PHP Notice:  Undefined variable: checkRentStatusOfUSer in /home/elecacom/public_html/spark/front/actionOnMessages.php on line 59
+[29-Feb-2012 22:14:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 22:14:11] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 22:14:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 22:32:55] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 17
+[29-Feb-2012 22:32:55] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 33
+[29-Feb-2012 22:32:55] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/home.php on line 161
+[29-Feb-2012 23:30:00] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:30:00] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:30:17] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:30:17] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:01] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:01] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:07] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:07] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:23] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:23] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[29-Feb-2012 23:31:45] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 23:31:45] PHP Warning:  include(../include/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 23:31:45] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../include/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/elecacom/public_html/spark/front/logout.php on line 4
+[29-Feb-2012 23:43:09] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 72
+[29-Feb-2012 23:43:09] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 75
+[29-Feb-2012 23:45:37] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 72
+[29-Feb-2012 23:45:37] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 75
+[29-Feb-2012 23:49:31] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 72
+[29-Feb-2012 23:49:31] PHP Warning:  gregoriantojd() expects parameter 3 to be long, string given in /home/elecacom/public_html/spark/include/functions.php on line 75
+[29-Feb-2012 23:55:17] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[29-Feb-2012 23:56:06] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[01-Mar-2012 00:05:27] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 00:05:27] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 00:06:20] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 00:06:20] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 29
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 49
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 68
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 87
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 157
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 175
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 192
+[01-Mar-2012 00:25:49] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 210
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 32
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 52
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 71
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 90
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 160
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 178
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 195
+[01-Mar-2012 00:41:35] PHP Notice:  Undefined variable: reviewResult in /home/elecacom/public_html/spark/front/reviews.php on line 213
+[01-Mar-2012 00:46:32] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/reviews.php on line 32
+[01-Mar-2012 00:47:38] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/elecacom/public_html/spark/front/reviews.php on line 32
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 39
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 59
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 78
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 97
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 39
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 59
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 78
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 97
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 39
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 59
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 78
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 97
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 39
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 59
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 78
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 97
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 39
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 59
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 78
+[01-Mar-2012 00:52:02] PHP Notice:  Undefined index: overall in /home/elecacom/public_html/spark/front/reviews.php on line 97
+[01-Mar-2012 01:07:36] PHP Notice:  Undefined index: longitude in /home/elecacom/public_html/spark/front/viewItemTabs.php on line 5
+[01-Mar-2012 01:07:36] PHP Notice:  Undefined index: latitude in /home/elecacom/public_html/spark/front/viewItemTabs.php on line 6
+[01-Mar-2012 01:08:58] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/elecacom/public_html/spark/front/viewItemTabs.php on line 5
+[01-Mar-2012 01:10:32] PHP Notice:  Undefined index: first_name in /home/elecacom/public_html/spark/front/reviews.php on line 122
+[01-Mar-2012 01:10:32] PHP Notice:  Undefined index: first_name in /home/elecacom/public_html/spark/front/reviews.php on line 122
+[01-Mar-2012 01:10:32] PHP Notice:  Undefined index: first_name in /home/elecacom/public_html/spark/front/reviews.php on line 122
+[01-Mar-2012 01:10:32] PHP Notice:  Undefined index: first_name in /home/elecacom/public_html/spark/front/reviews.php on line 122
+[01-Mar-2012 01:10:32] PHP Notice:  Undefined index: first_name in /home/elecacom/public_html/spark/front/reviews.php on line 122
+[01-Mar-2012 01:12:14] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, array given in /home/elecacom/public_html/spark/front/viewItemTabs.php on line 5
+[01-Mar-2012 01:22:58] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 01:22:58] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 06:41:57] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[01-Mar-2012 06:42:47] PHP Notice:  Undefined index: user in /home/elecacom/public_html/spark/front/viewItem.php on line 346
+[01-Mar-2012 06:44:10] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 06:44:10] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 09:33:04] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 09:33:04] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 09:42:30] PHP Notice:  Undefined variable: item_id in /home/elecacom/public_html/spark/front/profile.php on line 116
+[01-Mar-2012 09:42:30] PHP Notice:  Undefined variable: featurimage in /home/elecacom/public_html/spark/front/profile.php on line 116
